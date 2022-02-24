@@ -1,8 +1,8 @@
 {
   "name": "mark-sikaundi",
   "version": "1.0.0",
-  "description": "Personal portfolio website of Daniela Fedyakin - a fullstack web developer based in Berlin, Germany.",
+  "description": "Personal portfolio website of Daniela Fedyakin - a fullstack web developer based in Lusaka, Zambia.",
   "main": "main.js",
-  "author": "Daniela Fedyakin",
+  "author": "Mark Sikaundi",
   "license": "MIT"
 }
