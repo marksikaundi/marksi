@@ -49,7 +49,7 @@ nav.nav--section  {
   color: var(--primary--colour);
 }
 .nav-link {
-  text-transform: lowercase;
+  text-transform: capitalize;
   color: black;
 }
 .nav-link:hover {
